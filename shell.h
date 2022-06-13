@@ -15,7 +15,7 @@
 #define END_OF_FILE -2
 #define EXIT -3
 
-/* Global Environemnt */
+/* Global Environment */
 extern char **environ;
 
 /* Global Program Name */
