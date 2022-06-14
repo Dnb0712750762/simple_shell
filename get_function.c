@@ -6,7 +6,7 @@
 
 
 /** parse_command - determines the type of the command
- * @command: command to be parsed
+ * @command: command to be passed
  *
  * Return: constant representing the type of the command
  * Description -
