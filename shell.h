@@ -12,7 +12,6 @@
 #include <dirent.h>
 #include <signal.h>
 
-
 /*constants*/
 #define EXTERNAL_COMMAND 1
 #define INTERNAL_COMMAND 2
@@ -23,15 +22,14 @@
 
 /**
  *struct map - a struct that maps a command name to a function 
- *
  *@command_name: name of the command
  *@func: the function that executes the command
  */
 
 typedef struct map
 {
-	char *command_name;
-	void (*func)(char **command);
+char *command_name;
+void (*func)(char **command);
 } function_map;
 
 extern char **environ;
