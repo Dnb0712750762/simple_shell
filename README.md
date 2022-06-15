@@ -1,3 +1,33 @@
+
+
+0x16. C - Simple Shell
+
+ By Julien Barbier
+
+ Weight: 10
+
+ Project to be done in teams of 2 people (your team: Rosita Uqueio, Nyiko Baloyi
+
+ Ongoing second chance project - started Jun 1, 2022, must end by Jun 17, 2022 - you're done with 0% of tasks.
+
+ An auto review will be launched at the deadline
+
+In a nutshell…
+
+Contribution: 100.0%
+
+Auto QA review: 0.0/55 mandatory & 0.0/76 optional
+
+Altogether:  0.0%
+
+Mandatory: 0.0%
+
+Optional: 0.0%
+
+Contribution: 100.0%
+
+Calculation:  100.0% * (0.0% + (0.0% * 0.0%) )  == 0.0%
+
 Concepts
 
 For this project, we expect you to look at these concepts:
@@ -286,6 +316,8 @@ Tasks
 
 mandatory
 
+Score: 0.00% (Checks completed: 0.00%)
+
 Write a beautiful code that passes the Betty checks
 
 
@@ -296,11 +328,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 1. Simple shell 0.1
 
 mandatory
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Write a UNIX command line interpreter.
 
@@ -384,11 +418,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 2. Simple shell 0.2
 
 mandatory
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 0.1 +
 
@@ -402,11 +438,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 3. Simple shell 0.3
 
 mandatory
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 0.2 +
 
@@ -454,11 +492,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 4. Simple shell 0.4
 
 mandatory
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 0.3 +
 
@@ -476,11 +516,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 5. Simple shell 1.0
 
 mandatory
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 0.4 +
 
@@ -526,11 +568,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 6. Simple shell 0.1.1
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 0.1 +
 
@@ -556,11 +600,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 7. Simple shell 0.2.1
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 0.2 +
 
@@ -574,11 +620,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 8. Simple shell 0.4.1
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 0.4 +
 
@@ -604,11 +652,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 9. setenv, unsetenv
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -640,11 +690,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 10. cd
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -674,11 +726,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 11. ;
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -722,11 +776,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 12. && and ||
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -804,11 +860,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 13. alias
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -830,11 +888,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 14. Variables
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -874,11 +934,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 15. Comments
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -902,11 +964,13 @@ Repo:
 
 GitHub repository: simple_shell
 
-   
+    
 
 16. File as input
 
 #advanced
+
+Score: 0.00% (Checks completed: 0.00%)
 
 Simple shell 1.0 +
 
@@ -927,3 +991,7 @@ Repo:
 
 
 GitHub repository: simple_shell
+
+    
+
+Copyright © 2022 ALX, All rights reserved.	
