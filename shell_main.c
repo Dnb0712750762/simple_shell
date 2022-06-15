@@ -10,7 +10,6 @@
  * main - the main shell code
  * @argc: number of arguments passed
  * @argv: program arguments to be parsed
- *
  * applies the functions in utils and helpers
  * implements EOF
  * Prints error on Failure
